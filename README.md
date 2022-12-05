@@ -6,5 +6,9 @@ You can find more details on the header
 
 
 # Installation
+
 - Librosa
+- Pytorch
+- TorchAudio
+
 
