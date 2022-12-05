@@ -1,2 +1,3 @@
-# theta-public
-Public Repo of Theta
+# Audio Processing
+
+To process Audio files
