@@ -1,6 +1,6 @@
 # Audio Processing
 
-To process Audio files. Sample Audio files is processed
+To process Audio files. Sample Audio files are processed
 
 You can find more details on the header
 
