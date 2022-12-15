@@ -8,6 +8,7 @@ You can find more details on the header
 - React JS
 - Flask
 - React Native
+- Swift and Xcode
 
 # Installation
 
